@@ -10,8 +10,9 @@
 `har [command]`
 
 ## Options
-`-r` - Raw data
-`-g` - Request for player's guild (command: `player`)
+- `-k` - API key (required)
+- `-r` - Raw data
+- `-g` - Request for player's guild (command: `player`)
 
 ## Example
 `player` - `har player StavZDev -k key -r -g`
