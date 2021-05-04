@@ -1,0 +1,32 @@
+{
+  "name": "har",
+  "version": "1.0.0",
+  "description": "Hypixel API • Reborn CLI version",
+  "preferGlobal": true,
+  "main": "src/cli.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "hypixel-api-reborn": "^8.0.0"
+  },
+  "scripts": {},
+  "bin": {
+    "har": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hypixel-API-Reborn/cli"
+  },
+  "keywords": [
+    "hypixel-api-reborn",
+    "hypixel",
+    "api",
+    "cli"
+  ],
+  "author": "StavZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hypixel-API-Reborn/cli/issues"
+  },
+  "homepage": "https://github.com/Hypixel-API-Reborn/cli#readme"
+}
