@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hypixel API • Reborn CLI version",
   "preferGlobal": true,
-  "main": "src/cli.js",
+  "main": "cli.js",
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^7.2.0",
